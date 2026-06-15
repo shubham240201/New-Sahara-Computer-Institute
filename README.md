@@ -1,36 +1,45 @@
-🎓 New Sahara Computer Institute
+# 🎓 New Sahara Computer Institute
 
-A fully responsive institute management and portfolio website built for New Sahara Computer Institute — designed to showcase courses, handle student inquiries, and provide an online presence for the institute.
+A fully responsive **institute management and portfolio website** built for New Sahara Computer Institute — designed to showcase courses, handle student inquiries, and provide an online presence for the institute.
 
+---
 
-🌐 Live Demo
+## 🌐 Live Demo
 
-👉 View Live Website : https://newsaharacomputerinstitute.netlify.app/
+👉 [View Live Website](https://newsaharacomputerinstitute.netlify.app)
 
+---
 
-📌 About the Project
+## 📌 About the Project
 
 This project is a multi-page static website built for a real computer training institute. It includes course listings, a photo gallery, contact/inquiry form, and a clean responsive UI — making it easy for students and parents to explore offerings online.
 
+---
 
-✨ Features
+## ✨ Features
 
+- 📚 **7 Course Pages** — Individual pages for each course with details
+- 🖼️ **Gallery Section** — Institute photos and highlights
+- 📩 **Contact / Inquiry Form** — PHP-based form submission for student inquiries
+- 📱 **Responsive Design** — Works on mobile, tablet, and desktop
+- ⚡ **Fast & Lightweight** — Pure HTML, CSS, JavaScript — no heavy frameworks
 
-📚 7 Course Pages — Individual pages for each course with details
-🖼️ Gallery Section — Institute photos and highlights
-📩 Contact / Inquiry Form — PHP-based form submission for student inquiries
-📱 Responsive Design — Works on mobile, tablet, and desktop
-⚡ Fast & Lightweight — Pure HTML, CSS, JavaScript — no heavy frameworks
+---
 
+## 🛠️ Tech Stack
 
+| Technology | Usage |
+|------------|-------|
+| HTML5 | Page structure and content |
+| CSS3 | Styling and responsive layout |
+| JavaScript | Interactivity and DOM manipulation |
+| PHP | Backend form processing |
 
-🛠️ Tech Stack
+---
 
-TechnologyUsageHTML5Page structure and contentCSS3Styling and responsive layoutJavaScriptInteractivity and DOM manipulationPHPBackend form processing
+## 📁 Project Structure
 
-
-📁 Project Structure
-
+```
 New-Sahara-Computer-Institute/
 │
 ├── Index.html              # Home page
@@ -52,11 +61,14 @@ New-Sahara-Computer-Institute/
 ├── Gallery3.jpeg
 │
 └── logo.jpg                # Institute logo
+```
 
+---
 
-🚀 How to Run Locally
+## 🚀 How to Run Locally
 
-bash# 1. Clone the repository
+```bash
+# 1. Clone the repository
 git clone https://github.com/shubham240201/New-Sahara-Computer-Institute.git
 
 # 2. Open in browser
@@ -67,20 +79,19 @@ git clone https://github.com/shubham240201/New-Sahara-Computer-Institute.git
 php -S localhost:8000
 
 # Option 2 — Use XAMPP / WAMP and place files in htdocs folder
+```
+---
 
+## 👨‍💻 Developer
 
-👨‍💻 Developer
+**Shubham Sangale**
+- 💼 [LinkedIn](https://linkedin.com/in/shubham-sangale)
+- 🐙 [GitHub](https://github.com/shubham240201)
+- 🌐 [Portfolio](https://shubham-zeta.vercel.app)
+- 📧 sangaleshubham777@gmail.com
 
-Shubham Sangale
+---
 
-
-💼 LinkedIn
-🐙 GitHub
-🌐 Portfolio
-📧 sangaleshubham777@gmail.com
-
-
-
-⭐ Show Some Love
+## ⭐ Show Some Love
 
 If you found this project helpful, please consider giving it a ⭐ star on GitHub!
